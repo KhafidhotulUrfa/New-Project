@@ -1,0 +1,38 @@
+h2 {
+    color: green;
+}
+
+.card {
+    background-color: blue;
+    color: white;
+}
+
+.title {
+    color: red;
+}
+
+h3 {
+    color: aqua
+}
+
+#cardparent {
+    padding: 20px;
+    background-color: rgb(11, 172, 172);
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {}
+
+width: 300px;
+margin: 30px;
+background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
+border-radius: 20px;
+text-align: center;
+padding: 20px;
+
+}
+.card img {
+    width: 50px;
+}
